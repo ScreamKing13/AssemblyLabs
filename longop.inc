@@ -1,0 +1,6 @@
+EXTERN Add_N_LONGOP : proc
+EXTERN Sub_N_LONGOP : proc
+EXTERN Mul_Nx32_LONGOP : proc
+EXTERN Mul_NxN_LONGOP : proc
+EXTERN SHR_LONGOP : proc
+EXTERN DecFloat64_LONGOP : proc
